@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RPP_Production_Fishing_I.label>make fishing bot (Tier 1)</RPP_Production_Fishing_I.label>
+	<RPP_Production_Fishing_I.description>Produce a unit capable of fishing with amateur-class ability.</RPP_Production_Fishing_I.description>
+	<RPP_Production_Fishing_II.label>make fishing bot (Tier 2)</RPP_Production_Fishing_II.label>
+	<RPP_Production_Fishing_II.description>Produce a unit capable of fishing with professional-class ability.</RPP_Production_Fishing_II.description>
+	<RPP_Production_Fishing_III.label>make fishing bot (Tier 3)</RPP_Production_Fishing_III.label>
+	<RPP_Production_Fishing_III.description>Produce a unit capable of fishing with master-class ability.</RPP_Production_Fishing_III.description>
+	<RPP_Production_Fishing_IV.label>make fishing bot (Tier 4)</RPP_Production_Fishing_IV.label>
+	<RPP_Production_Fishing_IV.description>Produce a unit capable of fishing with system-master-class ability.</RPP_Production_Fishing_IV.description>
+	<RPP_Production_Fishing_V.label>make fishing bot (Tier 5)</RPP_Production_Fishing_V.label>
+	<RPP_Production_Fishing_V.description>Produce a unit capable of fishing with system-master-class ability.</RPP_Production_Fishing_V.description>
+
+	
+	
+	<RPP_Production_Beekeeper_I.label>make beekeeper bot (Tier 1)</RPP_Production_Beekeeper_I.label>
+	<RPP_Production_Beekeeper_I.description>Produce a unit capable of beekeeping with amateur-class ability.</RPP_Production_Beekeeper_I.description>
+	<RPP_Production_Beekeeper_II.label>make beekeeper bot (Tier 2)</RPP_Production_Beekeeper_II.label>
+	<RPP_Production_Beekeeper_II.description>Produce a unit capable of beekeeping with professional-class ability.</RPP_Production_Beekeeper_II.description>
+	<RPP_Production_Beekeeper_III.label>make beekeeper bot (Tier 3)</RPP_Production_Beekeeper_III.label>
+	<RPP_Production_Beekeeper_III.description>Produce a unit capable of beekeeping with master-class ability.</RPP_Production_Beekeeper_III.description>
+	<RPP_Production_Beekeeper_IV.label>make beekeeper bot (Tier 4)</RPP_Production_Beekeeper_IV.label>
+	<RPP_Production_Beekeeper_IV.description>Produce a unit capable of beekeeping with system-master-class ability.</RPP_Production_Beekeeper_IV.description>
+	<RPP_Production_Beekeeper_V.label>make beekeeper bot (Tier 5)</RPP_Production_Beekeeper_V.label>
+	<RPP_Production_Beekeeper_V.description>Produce a unit capable of beekeeping with system-master-class ability.</RPP_Production_Beekeeper_V.description>
+
+</LanguageData>

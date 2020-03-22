@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<ResearchProjectDef ParentName="RPP_Research_All">
+		<defName>RPP_Research_Beekeeper_All</defName>
+		<label>Cleaner</label>
+		<description>Production of beekeeping robots.</description>
+		<researchViewX>8</researchViewX>
+	</ResearchProjectDef>
+
+</Defs>

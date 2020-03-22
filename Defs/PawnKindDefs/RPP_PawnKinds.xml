@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<PawnKindDef ParentName="RPP_PawnKind">
+		<defName>RPP_Bot_Fishing_I</defName>
+		<label>Fishing Bot (Tier 1)</label>
+		<race>RPP_Bot_Fishing_I</race>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>Things/AIRobot/RPP/Fishing/I/RPP_Bot</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(1.7,1.7)</drawSize>
+					<shadowData>
+						<volume>(0.2, 0.1, 0.2)</volume>
+						<offset>(0,0.5,0)</offset>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef>
+	<PawnKindDef ParentName="RPP_PawnKind">
+		<defName>RPP_Bot_Fishing_II</defName>
+		<label>Fishing Bot (Tier 2)</label>
+		<race>RPP_Bot_Fishing_II</race>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>Things/AIRobot/RPP/Fishing/II/RPP_Bot</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(1.7,1.7)</drawSize>
+					<shadowData>
+						<volume>(0.2, 0.1, 0.2)</volume>
+						<offset>(0,0.5,0)</offset>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef>
+	<PawnKindDef ParentName="RPP_PawnKind">
+		<defName>RPP_Bot_Fishing_III</defName>
+		<label>Fishing Bot (Tier 3)</label>
+		<race>RPP_Bot_Fishing_III</race>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>Things/AIRobot/RPP/Fishing/III/RPP_Bot</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(1.7,1.7)</drawSize>
+					<shadowData>
+						<volume>(0.2, 0.1, 0.2)</volume>
+						<offset>(0,0.5,0)</offset>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef>
+	<PawnKindDef ParentName="RPP_PawnKind">
+		<defName>RPP_Bot_Fishing_IV</defName>
+		<label>Fishing Bot (Tier 4)</label>
+		<race>RPP_Bot_Fishing_IV</race>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>Things/AIRobot/RPP/Fishing/IV/RPP_Bot</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(1.7,1.7)</drawSize>
+					<shadowData>
+						<volume>(0.2, 0.1, 0.2)</volume>
+						<offset>(0,0.5,0)</offset>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef>
+	<PawnKindDef ParentName="RPP_PawnKind">
+		<defName>RPP_Bot_Fishing_V</defName>
+		<label>Fishing Bot (Tier 5)</label>
+		<race>RPP_Bot_Fishing_V</race>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>Things/AIRobot/RPP/Fishing/V/RPP_Bot</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(1.7,1.7)</drawSize>
+					<shadowData>
+						<volume>(0.2, 0.1, 0.2)</volume>
+						<offset>(0,0.5,0)</offset>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="RPP_PawnKind">
+		<defName>RPP_Bot_Beekeeper_I</defName>
+		<label>Beekeeper Bot (Tier 1)</label>
+		<race>RPP_Bot_Beekeeper_I</race>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>Things/AIRobot/RPP/Beekeeper/I/RPP_Bot</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(1.7,1.7)</drawSize>
+					<shadowData>
+						<volume>(0.2, 0.1, 0.2)</volume>
+						<offset>(0,0.5,0)</offset>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef>
+	<PawnKindDef ParentName="RPP_PawnKind">
+		<defName>RPP_Bot_Beekeeper_II</defName>
+		<label>Beekeeper Bot (Tier 2)</label>
+		<race>RPP_Bot_Beekeeper_II</race>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>Things/AIRobot/RPP/Beekeeper/II/RPP_Bot</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(1.7,1.7)</drawSize>
+					<shadowData>
+						<volume>(0.2, 0.1, 0.2)</volume>
+						<offset>(0,0.5,0)</offset>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef>
+	<PawnKindDef ParentName="RPP_PawnKind">
+		<defName>RPP_Bot_Beekeeper_III</defName>
+		<label>Beekeeper Bot (Tier 3)</label>
+		<race>RPP_Bot_Beekeeper_III</race>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>Things/AIRobot/RPP/Beekeeper/III/RPP_Bot</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(1.7,1.7)</drawSize>
+					<shadowData>
+						<volume>(0.2, 0.1, 0.2)</volume>
+						<offset>(0,0.5,0)</offset>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef>
+	<PawnKindDef ParentName="RPP_PawnKind">
+		<defName>RPP_Bot_Beekeeper_IV</defName>
+		<label>Beekeeper Bot (Tier 4)</label>
+		<race>RPP_Bot_Beekeeper_IV</race>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>Things/AIRobot/RPP/Beekeeper/IV/RPP_Bot</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(1.7,1.7)</drawSize>
+					<shadowData>
+						<volume>(0.2, 0.1, 0.2)</volume>
+						<offset>(0,0.5,0)</offset>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef>
+	<PawnKindDef ParentName="RPP_PawnKind">
+		<defName>RPP_Bot_Beekeeper_V</defName>
+		<label>Beekeeper Bot (Tier 5)</label>
+		<race>RPP_Bot_Beekeeper_V</race>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>Things/AIRobot/RPP/Beekeeper/V/RPP_Bot</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>(1.7,1.7)</drawSize>
+					<shadowData>
+						<volume>(0.2, 0.1, 0.2)</volume>
+						<offset>(0,0.5,0)</offset>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef>
+
+</Defs>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<RecipeDef ParentName="RPP_Recipe_Bot_I">
+		<defName>RPP_Production_Fishing_I</defName>
+		<label>make planter bot (Tier 1)</label>
+		<description>Produce a unit capable of fishing with amateur-class ability.</description>
+		<products><RPP_RechargeStation_Fishing_I>1</RPP_RechargeStation_Fishing_I></products>
+		<researchPrerequisite>RPP_Research_Kitchen_All</researchPrerequisite>
+	</RecipeDef>
+	<RecipeDef ParentName="RPP_Recipe_Bot_II">
+		<defName>RPP_Production_Fishing_II</defName>
+		<label>make planter bot (Tier 2)</label>
+		<description>Produce a unit capable of fishing with professional-class ability.</description>
+		<products><RPP_RechargeStation_Fishing_II>1</RPP_RechargeStation_Fishing_II></products>
+		<researchPrerequisite>RPP_Research_Kitchen_All</researchPrerequisite>
+	</RecipeDef>
+	<RecipeDef ParentName="RPP_Recipe_Bot_III">
+		<defName>RPP_Production_Fishing_III</defName>
+		<label>make planter bot (Tier 3)</label>
+		<description>Produce a unit capable of fishing with master-class ability.</description>
+		<products><RPP_RechargeStation_Fishing_III>1</RPP_RechargeStation_Fishing_III></products>
+		<researchPrerequisite>RPP_Research_Kitchen_All</researchPrerequisite>
+	</RecipeDef>
+	<RecipeDef ParentName="RPP_Recipe_Bot_IV">
+		<defName>RPP_Production_Fishing_IV</defName>
+		<label>make planter bot (Tier 4)</label>
+		<description>Produce a unit capable of fishing with system-master-class ability.</description>
+		<products><RPP_RechargeStation_Fishing_IV>1</RPP_RechargeStation_Fishing_IV></products>
+		<researchPrerequisite>RPP_Research_Kitchen_All</researchPrerequisite>
+	</RecipeDef>
+	<RecipeDef ParentName="RPP_Recipe_Bot_V">
+		<defName>RPP_Production_Fishing_V</defName>
+		<label>make planter bot (Tier 5)</label>
+		<description>Produce a unit capable of fishing with system-master-class ability.</description>
+		<products><RPP_RechargeStation_Fishing_V>1</RPP_RechargeStation_Fishing_V></products>
+		<researchPrerequisite>RPP_Research_Kitchen_All</researchPrerequisite>
+	</RecipeDef>
+
+	<RecipeDef ParentName="RPP_Recipe_Bot_I">
+		<defName>RPP_Production_Beekeeper_I</defName>
+		<label>make planter bot (Tier 1)</label>
+		<description>Produce a unit capable of fishing with amateur-class ability.</description>
+		<products><RPP_RechargeStation_Beekeeper_I>1</RPP_RechargeStation_Beekeeper_I></products>
+		<researchPrerequisite>RPP_Research_Beekeeper_All</researchPrerequisite>
+	</RecipeDef>
+	<RecipeDef ParentName="RPP_Recipe_Bot_II">
+		<defName>RPP_Production_Beekeeper_II</defName>
+		<label>make planter bot (Tier 2)</label>
+		<description>Produce a unit capable of fishing with professional-class ability.</description>
+		<products><RPP_RechargeStation_Beekeeper_II>1</RPP_RechargeStation_Beekeeper_II></products>
+		<researchPrerequisite>RPP_Research_Beekeeper_All</researchPrerequisite>
+	</RecipeDef>
+	<RecipeDef ParentName="RPP_Recipe_Bot_III">
+		<defName>RPP_Production_Beekeeper_III</defName>
+		<label>make planter bot (Tier 3)</label>
+		<description>Produce a unit capable of fishing with master-class ability.</description>
+		<products><RPP_RechargeStation_Beekeeper_III>1</RPP_RechargeStation_Beekeeper_III></products>
+		<researchPrerequisite>RPP_Research_Beekeeper_All</researchPrerequisite>
+	</RecipeDef>
+	<RecipeDef ParentName="RPP_Recipe_Bot_IV">
+		<defName>RPP_Production_Beekeeper_IV</defName>
+		<label>make planter bot (Tier 4)</label>
+		<description>Produce a unit capable of fishing with system-master-class ability.</description>
+		<products><RPP_RechargeStation_Beekeeper_IV>1</RPP_RechargeStation_Beekeeper_IV></products>
+		<researchPrerequisite>RPP_Research_Beekeeper_All</researchPrerequisite>
+	</RecipeDef>
+	<RecipeDef ParentName="RPP_Recipe_Bot_V">
+		<defName>RPP_Production_Beekeeper_V</defName>
+		<label>make planter bot (Tier 5)</label>
+		<description>Produce a unit capable of fishing with system-master-class ability.</description>
+		<products><RPP_RechargeStation_Beekeeper_V>1</RPP_RechargeStation_Beekeeper_V></products>
+		<researchPrerequisite>RPP_Research_Beekeeper_All</researchPrerequisite>
+	</RecipeDef>
+
+</Defs>

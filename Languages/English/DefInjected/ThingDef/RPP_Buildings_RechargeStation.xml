@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RPP_RechargeStation_Fishing_I.label>Fishing(I) Base Station</RPP_RechargeStation_Fishing_I.label>
+	<RPP_RechargeStation_Fishing_I.description>This station comes equipped with a specialized Simple robot.</RPP_RechargeStation_Fishing_I.description>
+	<RPP_RechargeStation_Fishing_II.label>Fishing(II) Base Station</RPP_RechargeStation_Fishing_II.label>
+	<RPP_RechargeStation_Fishing_II.description>This station comes equipped with a specialized Basic robot.</RPP_RechargeStation_Fishing_II.description>
+	<RPP_RechargeStation_Fishing_III.label>Fishing(III) Base Station</RPP_RechargeStation_Fishing_III.label>
+	<RPP_RechargeStation_Fishing_III.description>This station comes equipped with a specialized Intermediate robot.</RPP_RechargeStation_Fishing_III.description>
+	<RPP_RechargeStation_Fishing_IV.label>Fishing(IV) Base Station</RPP_RechargeStation_Fishing_IV.label>
+	<RPP_RechargeStation_Fishing_IV.description>This station comes equipped with a specialized Advanced robot.</RPP_RechargeStation_Fishing_IV.description>
+	<RPP_RechargeStation_Fishing_V.label>Fishing(V) Base Station</RPP_RechargeStation_Fishing_V.label>
+	<RPP_RechargeStation_Fishing_V.description>This station comes equipped with a specialized Anti-Logic robot.</RPP_RechargeStation_Fishing_V.description>
+
+
+	<RPP_RechargeStation_Beekeeper_I.label>Beekeeper(I) Base Station</RPP_RechargeStation_Beekeeper_I.label>
+	<RPP_RechargeStation_Beekeeper_I.description>This station comes equipped with a specialized Simple robot.</RPP_RechargeStation_Beekeeper_I.description>
+	<RPP_RechargeStation_Beekeeper_II.label>Beekeeper(II) Base Station</RPP_RechargeStation_Beekeeper_II.label>
+	<RPP_RechargeStation_Beekeeper_II.description>This station comes equipped with a specialized Basic robot.</RPP_RechargeStation_Beekeeper_II.description>
+	<RPP_RechargeStation_Beekeeper_III.label>Beekeeper(III) Base Station</RPP_RechargeStation_Beekeeper_III.label>
+	<RPP_RechargeStation_Beekeeper_III.description>This station comes equipped with a specialized Intermediate robot.</RPP_RechargeStation_Beekeeper_III.description>
+	<RPP_RechargeStation_Beekeeper_IV.label>Beekeeper(IV) Base Station</RPP_RechargeStation_Beekeeper_IV.label>
+	<RPP_RechargeStation_Beekeeper_IV.description>This station comes equipped with a specialized Advanced robot.</RPP_RechargeStation_Beekeeper_IV.description>
+	<RPP_RechargeStation_Beekeeper_V.label>Beekeeper(V) Base Station</RPP_RechargeStation_Beekeeper_V.label>
+	<RPP_RechargeStation_Beekeeper_V.description>This station comes equipped with a specialized Anti-Logic robot.</RPP_RechargeStation_Beekeeper_V.description>
+
+</LanguageData>

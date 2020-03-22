@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef ParentName="RPP_Bot_I" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Fishing_I</defName>
+		<label>Fishing Bot</label>
+		<description>A Tier 1 amateur-class unit capable of fishing.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Fishing</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Fishing_I_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_II" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Fishing_II</defName>
+		<label>Fishing Bot</label>
+		<description>A Tier 2 professional-class unit capable of fishing.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Fishing</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Fishing_II_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_III" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Fishing_III</defName>
+		<label>Fishing Bot</label>
+		<description>A Tier 3 Master-class unit capable of fishing.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Fishing</workTypeDef><priority>2</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Fishing_III_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_IV" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Fishing_IV</defName>
+		<label>Fishing Bot</label>
+		<description>A Tier 4 System-Master-class unit capable of fishing.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Fishing</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Fishing_IV_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_V" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Fishing_V</defName>
+		<label>Fishing Bot</label>
+		<description>A Tier 5 Godlike-class unit capable of fishing.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Fishing</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Fishing_V_disabled</destroyedDef>
+	</ThingDef>
+
+	
+	<ThingDef ParentName="RPP_Bot_I" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Beekeeper_I</defName>
+		<label>Beekeeper Bot</label>
+		<description>A Tier 1 amateur-class unit capable of beekeeping.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>RB_BeekeepingWork</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Beekeeper_I_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_II" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Beekeeper_II</defName>
+		<label>Beekeeper Bot</label>
+		<description>A Tier 2 professional-class unit capable of beekeeping.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>RB_BeekeepingWork</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Beekeeper_II_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_III" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Beekeeper_III</defName>
+		<label>Beekeeper Bot</label>
+		<description>A Tier 3 Master-class unit capable of beekeeping.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>RB_BeekeepingWork</workTypeDef><priority>2</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Beekeeper_III_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_IV" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Beekeeper_IV</defName>
+		<label>Beekeeper Bot</label>
+		<description>A Tier 4 System-Master-class unit capable of beekeeping.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>RB_BeekeepingWork</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Beekeeper_IV_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_V" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Beekeeper_V</defName>
+		<label>Beekeeper Bot</label>
+		<description>A Tier 5 Godlike-class unit capable of beekeeping.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>RB_BeekeepingWork</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Beekeeper_V_disabled</destroyedDef>
+	</ThingDef>
+
+</Defs>

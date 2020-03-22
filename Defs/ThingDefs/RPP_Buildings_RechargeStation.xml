@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef ParentName="RPP_RechargeStation_I" Class="AIRobot.X2_ThingDef_AIRobot_Building_RechargeStation">
+		<defName>RPP_RechargeStation_Fishing_I</defName>
+		<label>Fishing(I) Base Station</label>
+		<description>This station comes equipped with a specialized Simple robot.</description>
+		<graphicData>
+			<texPath>Things/AIRobot/RPP/Fishing/I/RPP_Station</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1,1)</drawSize>
+			<damageData>
+				<rect>(0.05,0.05,0.95,0.95)</rect>
+			</damageData>
+		</graphicData>
+		<secondaryGraphicPath>Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_Empty1</secondaryGraphicPath>
+		<spawnThingDef>RPP_Bot_Fishing_I</spawnThingDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_RechargeStation_II" Class="AIRobot.X2_ThingDef_AIRobot_Building_RechargeStation">
+		<defName>RPP_RechargeStation_Fishing_II</defName>
+		<label>Fishing(II) Base Station</label>
+		<description>This station comes equipped with a specialized Basic robot.</description>
+		<graphicData>
+			<texPath>Things/AIRobot/RPP/Fishing/II/RPP_Station</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1,1)</drawSize>
+			<damageData>
+				<rect>(0.05,0.05,0.95,0.95)</rect>
+			</damageData>
+		</graphicData>
+		<secondaryGraphicPath>Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_Empty1</secondaryGraphicPath>
+		<spawnThingDef>RPP_Bot_Fishing_II</spawnThingDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_RechargeStation_III" Class="AIRobot.X2_ThingDef_AIRobot_Building_RechargeStation">
+		<defName>RPP_RechargeStation_Fishing_III</defName>
+		<label>Fishing(III) Base Station</label>
+		<description>This station comes equipped with a specialized Intermediate robot.</description>
+		<graphicData>
+			<texPath>Things/AIRobot/RPP/Fishing/III/RPP_Station</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1,1)</drawSize>
+			<damageData>
+				<rect>(0.05,0.05,0.95,0.95)</rect>
+			</damageData>
+		</graphicData>
+		<secondaryGraphicPath>Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_Empty1</secondaryGraphicPath>
+		<spawnThingDef>RPP_Bot_Fishing_III</spawnThingDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_RechargeStation_IV" Class="AIRobot.X2_ThingDef_AIRobot_Building_RechargeStation">
+		<defName>RPP_RechargeStation_Fishing_IV</defName>
+		<label>Fishing(IV) Base Station</label>
+		<description>This station comes equipped with a specialized Advanced robot.</description>
+		<graphicData>
+			<texPath>Things/AIRobot/RPP/Fishing/IV/RPP_Station</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1,1)</drawSize>
+			<damageData>
+				<rect>(0.05,0.05,0.95,0.95)</rect>
+			</damageData>
+		</graphicData>
+		<secondaryGraphicPath>Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_Empty1</secondaryGraphicPath>
+		<spawnThingDef>RPP_Bot_Fishing_IV</spawnThingDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_RechargeStation_V" Class="AIRobot.X2_ThingDef_AIRobot_Building_RechargeStation">
+		<defName>RPP_RechargeStation_Fishing_V</defName>
+		<label>Fishing(V) Base Station</label>
+		<description>This station comes equipped with a specialized Anti-Logic robot.</description>
+		<graphicData>
+			<texPath>Things/AIRobot/RPP/Fishing/V/RPP_Station</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1,1)</drawSize>
+			<damageData>
+				<rect>(0.05,0.05,0.95,0.95)</rect>
+			</damageData>
+		</graphicData>
+		<secondaryGraphicPath>Things/AIRobot/RPP/RPP_RechargeStation_V_Empty1</secondaryGraphicPath>
+		<spawnThingDef>RPP_Bot_Fishing_V</spawnThingDef>
+	</ThingDef>
+
+	
+	
+	<ThingDef ParentName="RPP_RechargeStation_I" Class="AIRobot.X2_ThingDef_AIRobot_Building_RechargeStation">
+		<defName>RPP_RechargeStation_Beekeeper_I</defName>
+		<label>Beekeeper(I) Base Station</label>
+		<description>This station comes equipped with a specialized Simple robot.</description>
+		<graphicData>
+			<texPath>Things/AIRobot/RPP/Beekeeper/I/RPP_Station</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1,1)</drawSize>
+			<damageData>
+				<rect>(0.05,0.05,0.95,0.95)</rect>
+			</damageData>
+		</graphicData>
+		<secondaryGraphicPath>Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_Empty1</secondaryGraphicPath>
+		<spawnThingDef>RPP_Bot_Beekeeper_I</spawnThingDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_RechargeStation_II" Class="AIRobot.X2_ThingDef_AIRobot_Building_RechargeStation">
+		<defName>RPP_RechargeStation_Beekeeper_II</defName>
+		<label>Beekeeper(II) Base Station</label>
+		<description>This station comes equipped with a specialized Basic robot.</description>
+		<graphicData>
+			<texPath>Things/AIRobot/RPP/Beekeeper/II/RPP_Station</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1,1)</drawSize>
+			<damageData>
+				<rect>(0.05,0.05,0.95,0.95)</rect>
+			</damageData>
+		</graphicData>
+		<secondaryGraphicPath>Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_Empty1</secondaryGraphicPath>
+		<spawnThingDef>RPP_Bot_Beekeeper_II</spawnThingDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_RechargeStation_III" Class="AIRobot.X2_ThingDef_AIRobot_Building_RechargeStation">
+		<defName>RPP_RechargeStation_Beekeeper_III</defName>
+		<label>Beekeeper(III) Base Station</label>
+		<description>This station comes equipped with a specialized Intermediate robot.</description>
+		<graphicData>
+			<texPath>Things/AIRobot/RPP/Beekeeper/III/RPP_Station</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1,1)</drawSize>
+			<damageData>
+				<rect>(0.05,0.05,0.95,0.95)</rect>
+			</damageData>
+		</graphicData>
+		<secondaryGraphicPath>Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_Empty1</secondaryGraphicPath>
+		<spawnThingDef>RPP_Bot_Beekeeper_III</spawnThingDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_RechargeStation_IV" Class="AIRobot.X2_ThingDef_AIRobot_Building_RechargeStation">
+		<defName>RPP_RechargeStation_Beekeeper_IV</defName>
+		<label>Beekeeper(IV) Base Station</label>
+		<description>This station comes equipped with a specialized Advanced robot.</description>
+		<graphicData>
+			<texPath>Things/AIRobot/RPP/Beekeeper/IV/RPP_Station</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1,1)</drawSize>
+			<damageData>
+				<rect>(0.05,0.05,0.95,0.95)</rect>
+			</damageData>
+		</graphicData>
+		<secondaryGraphicPath>Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_Empty1</secondaryGraphicPath>
+		<spawnThingDef>RPP_Bot_Beekeeper_IV</spawnThingDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_RechargeStation_V" Class="AIRobot.X2_ThingDef_AIRobot_Building_RechargeStation">
+		<defName>RPP_RechargeStation_Beekeeper_V</defName>
+		<label>Beekeeper(V) Base Station</label>
+		<description>This station comes equipped with a specialized Anti-Logic robot.</description>
+		<graphicData>
+			<texPath>Things/AIRobot/RPP/Beekeeper/V/RPP_Station</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(1,1)</drawSize>
+			<damageData>
+				<rect>(0.05,0.05,0.95,0.95)</rect>
+			</damageData>
+		</graphicData>
+		<secondaryGraphicPath>Things/AIRobot/RPP/RPP_RechargeStation_V_Empty1</secondaryGraphicPath>
+		<spawnThingDef>RPP_Bot_Beekeeper_V</spawnThingDef>
+	</ThingDef>
+
+</Defs>

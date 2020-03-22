@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RPP_Bot_Fishing_I.label>Fishing Bot</RPP_Bot_Fishing_I.label>
+	<RPP_Bot_Fishing_I.description>A Tier 1 Amateur-class (4) unit capable of fishing.</RPP_Bot_Fishing_I.description>
+	<RPP_Bot_Fishing_II.label>Fishing Bot</RPP_Bot_Fishing_II.label>
+	<RPP_Bot_Fishing_II.description>A Tier 2 Professional-class (8) unit capable of fishing.</RPP_Bot_Fishing_II.description>
+	<RPP_Bot_Fishing_III.label>Fishing Bot</RPP_Bot_Fishing_III.label>
+	<RPP_Bot_Fishing_III.description>A Tier 3 Master-class (13) unit capable of fishing.</RPP_Bot_Fishing_III.description>
+	<RPP_Bot_Fishing_IV.label>Fishing Bot</RPP_Bot_Fishing_IV.label>
+	<RPP_Bot_Fishing_IV.description>A Tier 4 System-Master-class (16) unit capable of fishing.</RPP_Bot_Fishing_IV.description>
+	<RPP_Bot_Fishing_V.label>Fishing Bot</RPP_Bot_Fishing_V.label>
+	<RPP_Bot_Fishing_V.description>A Tier 5 Godlike-class (20) unit capable of fishing.</RPP_Bot_Fishing_V.description>
+
+	
+
+	<RPP_Bot_Beekeeper_I.label>Beekeeper Bot</RPP_Bot_Beekeeper_I.label>
+	<RPP_Bot_Beekeeper_I.description>A Tier 1 Amateur-class (4) unit capable of beekeeping.</RPP_Bot_Beekeeper_I.description>
+	<RPP_Bot_Beekeeper_II.label>Beekeeper Bot</RPP_Bot_Beekeeper_II.label>
+	<RPP_Bot_Beekeeper_II.description>A Tier 2 Professional-class (8) unit capable of beekeeping.</RPP_Bot_Beekeeper_II.description>
+	<RPP_Bot_Beekeeper_III.label>Beekeeper Bot</RPP_Bot_Beekeeper_III.label>
+	<RPP_Bot_Beekeeper_III.description>A Tier 3 Master-class (13) unit capable of beekeeping.</RPP_Bot_Beekeeper_III.description>
+	<RPP_Bot_Beekeeper_IV.label>Beekeeper Bot</RPP_Bot_Beekeeper_IV.label>
+	<RPP_Bot_Beekeeper_IV.description>A Tier 4 System-Master-class (16) unit capable of beekeeping.</RPP_Bot_Beekeeper_IV.description>
+	<RPP_Bot_Beekeeper_V.label>Beekeeper Bot</RPP_Bot_Beekeeper_V.label>
+	<RPP_Bot_Beekeeper_V.description>A Tier 5 Godlike-class (20) unit capable of beekeeping.</RPP_Bot_Beekeeper_V.description>
+
+</LanguageData>
+
+

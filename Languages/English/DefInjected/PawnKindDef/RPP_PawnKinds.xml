@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RPP_Bot_Fishing_I.label>Fishing Bot (Tier 1)</RPP_Bot_Fishing_I.label>
+	<RPP_Bot_Fishing_II.label>Fishing Bot (Tier 2)</RPP_Bot_Fishing_II.label>
+	<RPP_Bot_Fishing_III.label>Fishing Bot (Tier 3)</RPP_Bot_Fishing_III.label>
+	<RPP_Bot_Fishing_IV.label>Fishing Bot (Tier 4)</RPP_Bot_Fishing_IV.label>
+	<RPP_Bot_Fishing_V.label>Fishing Bot (Tier 5)</RPP_Bot_Fishing_V.label>
+
+	<RPP_Bot_Beekeeper_I.label>Beekeeper Bot (Tier 1)</RPP_Bot_Beekeeper_I.label>
+	<RPP_Bot_Beekeeper_II.label>Beekeeper Bot (Tier 2)</RPP_Bot_Beekeeper_II.label>
+	<RPP_Bot_Beekeeper_III.label>Beekeeper Bot (Tier 3)</RPP_Bot_Beekeeper_III.label>
+	<RPP_Bot_Beekeeper_IV.label>Beekeeper Bot (Tier 4)</RPP_Bot_Beekeeper_IV.label>
+	<RPP_Bot_Beekeeper_V.label>Beekeeper Bot (Tier 5)</RPP_Bot_Beekeeper_V.label>
+
+</LanguageData>

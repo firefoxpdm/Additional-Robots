@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 
-<name>Additional Robots</name>
-<author>FireFoX</author>
-<url>https://github.com/firefoxpdm/rimworld-mods</url>
-<supportedVersions><li>1.0</li></supportedVersions>
-<description>	Mod Version: 1.0.0
+	<name>Additional Robots</name>
+	<author>FireFoX</author>
+	<url>https://github.com/firefoxpdm/Additional-Robots</url>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>Alaestor.MiscRobots.PlusPlus</packageId>
+			<displayName>Misc. Robots++</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/747645520</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>	Mod Version: 1.1.0
 
 *** Example Load Order ***
 - Core
@@ -13,13 +22,17 @@
 - Misc. Robots++
 - RF - Fishing (optional)
 - RimBees (optional)
+- Rimatomics (optional)
 - Additional Robots
 
-Adds a new kitchen-like bot type that can do fishing, and a hauler–like robot that can do beekeeping.
+Adds a new kitchen-like bot type that can do fishing with RF's fishing mod.
+Adds a new hauler-like robot that can do beekeeping with the RimBees mod.
 
 Also allows omnibots to do the above actions.
 
-A separate research job is also added for the beekeper bot.
-</description>
+Adds a new hauler-like robot that can move the radioactive rods of Rimatomics without permanent injury. Omnibots are not sturdy enough for this particular job.
+
+A separate research job is also added for the beekeper and for the atom bots.
+	</description>
 
 </ModMetaData>

@@ -13,4 +13,10 @@
 	<RPP_Bot_Beekeeper_IV.label>Beekeeper Bot (Tier 4)</RPP_Bot_Beekeeper_IV.label>
 	<RPP_Bot_Beekeeper_V.label>Beekeeper Bot (Tier 5)</RPP_Bot_Beekeeper_V.label>
 
+	<RPP_Bot_Atom_I.label>Atom Bot (Tier 1)</RPP_Bot_Atom_I.label>
+	<RPP_Bot_Atom_II.label>Atom Bot (Tier 2)</RPP_Bot_Atom_II.label>
+	<RPP_Bot_Atom_III.label>Atom Bot (Tier 3)</RPP_Bot_Atom_III.label>
+	<RPP_Bot_Atom_IV.label>Atom Bot (Tier 4)</RPP_Bot_Atom_IV.label>
+	<RPP_Bot_Atom_V.label>Atom Bot (Tier 5)</RPP_Bot_Atom_V.label>
+
 </LanguageData>

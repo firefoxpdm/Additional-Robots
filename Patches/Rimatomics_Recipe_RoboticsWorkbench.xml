@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Rimatomics</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs</xpath>
+					<value>
+						<RecipeDef ParentName="RPP_Recipe_Bot_I">
+							<defName>RPP_Production_Atom_I</defName>
+							<label>make planter bot (Tier 1)</label>
+							<description>Produce a unit capable of handling nuclear reactor fuel with amateur-class ability.</description>
+							<ingredients>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>DepletedUraniumPellets</li>
+										</thingDefs>
+									</filter>
+									<count>50</count>
+								</li>
+							</ingredients>
+							<fixedIngredientFilter>
+								<thingDefs>
+									<li>DepletedUraniumPellets</li>
+								</thingDefs>
+							</fixedIngredientFilter>
+							<products>
+								<RPP_RechargeStation_Atom_I>1</RPP_RechargeStation_Atom_I>
+							</products>
+							<researchPrerequisite>RPP_Research_Atom_All</researchPrerequisite>
+						</RecipeDef>
+						<RecipeDef ParentName="RPP_Recipe_Bot_II">
+							<defName>RPP_Production_Atom_II</defName>
+							<label>make planter bot (Tier 2)</label>
+							<description>Produce a unit capable of handling nuclear reactor fuel with professional-class ability.</description>
+							<ingredients>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>DepletedUraniumPellets</li>
+										</thingDefs>
+									</filter>
+									<count>50</count>
+								</li>
+							</ingredients>
+							<fixedIngredientFilter>
+								<thingDefs>
+									<li>DepletedUraniumPellets</li>
+								</thingDefs>
+							</fixedIngredientFilter>
+							<products>
+								<RPP_RechargeStation_Atom_II>1</RPP_RechargeStation_Atom_II>
+							</products>
+							<researchPrerequisite>RPP_Research_Atom_All</researchPrerequisite>
+						</RecipeDef>
+						<RecipeDef ParentName="RPP_Recipe_Bot_III">
+							<defName>RPP_Production_Atom_III</defName>
+							<label>make planter bot (Tier 3)</label>
+							<description>Produce a unit capable of handling nuclear reactor fuel with master-class ability.</description>
+							<ingredients>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>DepletedUraniumPellets</li>
+										</thingDefs>
+									</filter>
+									<count>50</count>
+								</li>
+							</ingredients>
+							<fixedIngredientFilter>
+								<thingDefs>
+									<li>DepletedUraniumPellets</li>
+								</thingDefs>
+							</fixedIngredientFilter>
+							<products>
+								<RPP_RechargeStation_Atom_III>1</RPP_RechargeStation_Atom_III>
+							</products>
+							<researchPrerequisite>RPP_Research_Atom_All</researchPrerequisite>
+						</RecipeDef>
+						<RecipeDef ParentName="RPP_Recipe_Bot_IV">
+							<defName>RPP_Production_Atom_IV</defName>
+							<label>make planter bot (Tier 4)</label>
+							<description>Produce a unit capable of handling nuclear reactor fuel with system-master-class ability.</description>
+							<ingredients>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>DepletedUraniumPellets</li>
+										</thingDefs>
+									</filter>
+									<count>100</count>
+								</li>
+							</ingredients>
+							<fixedIngredientFilter>
+								<thingDefs>
+									<li>DepletedUraniumPellets</li>
+								</thingDefs>
+							</fixedIngredientFilter>
+							<products>
+								<RPP_RechargeStation_Atom_IV>1</RPP_RechargeStation_Atom_IV>
+							</products>
+							<researchPrerequisite>RPP_Research_Atom_All</researchPrerequisite>
+						</RecipeDef>
+						<RecipeDef ParentName="RPP_Recipe_Bot_V">
+							<defName>RPP_Production_Atom_V</defName>
+							<label>make planter bot (Tier 5)</label>
+							<description>Produce a unit capable of handling nuclear reactor fuel with system-master-class ability.</description>
+							<ingredients>
+								<li>
+									<filter>
+										<thingDefs>
+											<li>DepletedUraniumPellets</li>
+										</thingDefs>
+									</filter>
+									<count>100</count>
+								</li>
+							</ingredients>
+							<fixedIngredientFilter>
+								<thingDefs>
+									<li>DepletedUraniumPellets</li>
+								</thingDefs>
+							</fixedIngredientFilter>
+							<products>
+								<RPP_RechargeStation_Atom_V>1</RPP_RechargeStation_Atom_V>
+							</products>
+							<researchPrerequisite>RPP_Research_Atom_All</researchPrerequisite>
+						</RecipeDef>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>

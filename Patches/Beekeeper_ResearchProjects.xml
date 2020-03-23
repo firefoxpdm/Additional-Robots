@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>RimBees</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs</xpath>
+					<value>
+
+						<ResearchProjectDef ParentName="RPP_Research_All">
+							<defName>RPP_Research_Beekeeper_All</defName>
+							<label>Cleaner</label>
+							<description>Production of beekeeping robots.</description>
+							<researchViewX>8</researchViewX>
+						</ResearchProjectDef>
+
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>

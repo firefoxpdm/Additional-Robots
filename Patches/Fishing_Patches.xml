@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>[RF] Fishing [1.1]</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<!-- If we have RF's fishing mod, omnibot should be able to do fishing -->
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/ThingDef[defName = "RPP_Bot_Omni_V"]/robotWorkTypes</xpath>
+					<value>
+						<li>
+							<workTypeDef>Fishing</workTypeDef>
+							<priority>2</priority>
+						</li>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>

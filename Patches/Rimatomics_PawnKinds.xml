@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Rimatomics</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs</xpath>
+					<value>
+
+						<PawnKindDef ParentName="RPP_PawnKind">
+							<defName>RPP_Bot_Atom_I</defName>
+							<label>Atom Bot (Tier 1)</label>
+							<race>RPP_Bot_Atom_I</race>
+							<lifeStages>
+								<li>
+									<bodyGraphicData>
+										<texPath>Things/AIRobot/RPP/Atom/I/RPP_Bot</texPath>
+										<graphicClass>Graphic_Multi</graphicClass>
+										<drawSize>(1.7,1.7)</drawSize>
+										<shadowData>
+											<volume>(0.2, 0.1, 0.2)</volume>
+											<offset>(0,0.5,0)</offset>
+										</shadowData>
+									</bodyGraphicData>
+								</li>
+							</lifeStages>
+						</PawnKindDef>
+						<PawnKindDef ParentName="RPP_PawnKind">
+							<defName>RPP_Bot_Atom_II</defName>
+							<label>Atom Bot (Tier 2)</label>
+							<race>RPP_Bot_Atom_II</race>
+							<lifeStages>
+								<li>
+									<bodyGraphicData>
+										<texPath>Things/AIRobot/RPP/Atom/II/RPP_Bot</texPath>
+										<graphicClass>Graphic_Multi</graphicClass>
+										<drawSize>(1.7,1.7)</drawSize>
+										<shadowData>
+											<volume>(0.2, 0.1, 0.2)</volume>
+											<offset>(0,0.5,0)</offset>
+										</shadowData>
+									</bodyGraphicData>
+								</li>
+							</lifeStages>
+						</PawnKindDef>
+						<PawnKindDef ParentName="RPP_PawnKind">
+							<defName>RPP_Bot_Atom_III</defName>
+							<label>Atom Bot (Tier 3)</label>
+							<race>RPP_Bot_Atom_III</race>
+							<lifeStages>
+								<li>
+									<bodyGraphicData>
+										<texPath>Things/AIRobot/RPP/Atom/III/RPP_Bot</texPath>
+										<graphicClass>Graphic_Multi</graphicClass>
+										<drawSize>(1.7,1.7)</drawSize>
+										<shadowData>
+											<volume>(0.2, 0.1, 0.2)</volume>
+											<offset>(0,0.5,0)</offset>
+										</shadowData>
+									</bodyGraphicData>
+								</li>
+							</lifeStages>
+						</PawnKindDef>
+						<PawnKindDef ParentName="RPP_PawnKind">
+							<defName>RPP_Bot_Atom_IV</defName>
+							<label>Atom Bot (Tier 4)</label>
+							<race>RPP_Bot_Atom_IV</race>
+							<lifeStages>
+								<li>
+									<bodyGraphicData>
+										<texPath>Things/AIRobot/RPP/Atom/IV/RPP_Bot</texPath>
+										<graphicClass>Graphic_Multi</graphicClass>
+										<drawSize>(1.7,1.7)</drawSize>
+										<shadowData>
+											<volume>(0.2, 0.1, 0.2)</volume>
+											<offset>(0,0.5,0)</offset>
+										</shadowData>
+									</bodyGraphicData>
+								</li>
+							</lifeStages>
+						</PawnKindDef>
+						<PawnKindDef ParentName="RPP_PawnKind">
+							<defName>RPP_Bot_Atom_V</defName>
+							<label>Atom Bot (Tier 5)</label>
+							<race>RPP_Bot_Atom_V</race>
+							<lifeStages>
+								<li>
+									<bodyGraphicData>
+										<texPath>Things/AIRobot/RPP/Atom/V/RPP_Bot</texPath>
+										<graphicClass>Graphic_Multi</graphicClass>
+										<drawSize>(1.7,1.7)</drawSize>
+										<shadowData>
+											<volume>(0.2, 0.1, 0.2)</volume>
+											<offset>(0,0.5,0)</offset>
+										</shadowData>
+									</bodyGraphicData>
+								</li>
+							</lifeStages>
+						</PawnKindDef>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>

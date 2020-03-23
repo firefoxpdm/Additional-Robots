@@ -25,4 +25,15 @@
 	<RPP_Production_Beekeeper_V.label>make beekeeper bot (Tier 5)</RPP_Production_Beekeeper_V.label>
 	<RPP_Production_Beekeeper_V.description>Produce a unit capable of beekeeping with system-master-class ability.</RPP_Production_Beekeeper_V.description>
 
+	<RPP_Production_Atom_I.label>make atom bot (Tier 1)</RPP_Production_Atom_I.label>
+	<RPP_Production_Atom_I.description>Produce a unit capable of beekeeping with amateur-class ability.</RPP_Production_Atom_I.description>
+	<RPP_Production_Atom_II.label>make atom bot (Tier 2)</RPP_Production_Atom_II.label>
+	<RPP_Production_Atom_II.description>Produce a unit capable of beekeeping with professional-class ability.</RPP_Production_Atom_II.description>
+	<RPP_Production_Atom_III.label>make atom bot (Tier 3)</RPP_Production_Atom_III.label>
+	<RPP_Production_Atom_III.description>Produce a unit capable of beekeeping with master-class ability.</RPP_Production_Atom_III.description>
+	<RPP_Production_Atom_IV.label>make atom bot (Tier 4)</RPP_Production_Atom_IV.label>
+	<RPP_Production_Atom_IV.description>Produce a unit capable of beekeeping with system-master-class ability.</RPP_Production_Atom_IV.description>
+	<RPP_Production_Atom_V.label>make atom bot (Tier 5)</RPP_Production_Atom_V.label>
+	<RPP_Production_Atom_V.description>Produce a unit capable of beekeeping with system-master-class ability.</RPP_Production_Atom_V.description>
+
 </LanguageData>

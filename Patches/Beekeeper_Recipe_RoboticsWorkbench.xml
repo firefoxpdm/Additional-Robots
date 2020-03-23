@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>RimBees</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs</xpath>
+					<value>
+
+						<RecipeDef ParentName="RPP_Recipe_Bot_I">
+							<defName>RPP_Production_Beekeeper_I</defName>
+							<label>make planter bot (Tier 1)</label>
+							<description>Produce a unit capable of beekeeping with amateur-class ability.</description>
+							<products>
+								<RPP_RechargeStation_Beekeeper_I>1</RPP_RechargeStation_Beekeeper_I>
+							</products>
+							<researchPrerequisite>RPP_Research_Beekeeper_All</researchPrerequisite>
+						</RecipeDef>
+						<RecipeDef ParentName="RPP_Recipe_Bot_II">
+							<defName>RPP_Production_Beekeeper_II</defName>
+							<label>make planter bot (Tier 2)</label>
+							<description>Produce a unit capable of beekeeping with professional-class ability.</description>
+							<products>
+								<RPP_RechargeStation_Beekeeper_II>1</RPP_RechargeStation_Beekeeper_II>
+							</products>
+							<researchPrerequisite>RPP_Research_Beekeeper_All</researchPrerequisite>
+						</RecipeDef>
+						<RecipeDef ParentName="RPP_Recipe_Bot_III">
+							<defName>RPP_Production_Beekeeper_III</defName>
+							<label>make planter bot (Tier 3)</label>
+							<description>Produce a unit capable of beekeeping with master-class ability.</description>
+							<products>
+								<RPP_RechargeStation_Beekeeper_III>1</RPP_RechargeStation_Beekeeper_III>
+							</products>
+							<researchPrerequisite>RPP_Research_Beekeeper_All</researchPrerequisite>
+						</RecipeDef>
+						<RecipeDef ParentName="RPP_Recipe_Bot_IV">
+							<defName>RPP_Production_Beekeeper_IV</defName>
+							<label>make planter bot (Tier 4)</label>
+							<description>Produce a unit capable of beekeeping with system-master-class ability.</description>
+							<products>
+								<RPP_RechargeStation_Beekeeper_IV>1</RPP_RechargeStation_Beekeeper_IV>
+							</products>
+							<researchPrerequisite>RPP_Research_Beekeeper_All</researchPrerequisite>
+						</RecipeDef>
+						<RecipeDef ParentName="RPP_Recipe_Bot_V">
+							<defName>RPP_Production_Beekeeper_V</defName>
+							<label>make planter bot (Tier 5)</label>
+							<description>Produce a unit capable of beekeeping with system-master-class ability.</description>
+							<products>
+								<RPP_RechargeStation_Beekeeper_V>1</RPP_RechargeStation_Beekeeper_V>
+							</products>
+							<researchPrerequisite>RPP_Research_Beekeeper_All</researchPrerequisite>
+						</RecipeDef>
+
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>

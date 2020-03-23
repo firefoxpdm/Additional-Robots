@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Rimatomics</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs</xpath>
+					<value>
+						<ThingDef ParentName="RPP_Bot_I" Class="AIRobot.X2_ThingDef_AIRobot">
+							<defName>RPP_Bot_Atom_I</defName>
+							<label>Atom Bot</label>
+							<description>A Tier 1 amateur-class unit capable of handling nuclear reactor fuel.</description>
+							<robotWorkTypes>
+								<li>
+									<workTypeDef>RB_BeekeepingWork</workTypeDef>
+									<priority>3</priority>
+								</li>
+							</robotWorkTypes>
+							<destroyedDef>RPP_Bot_Atom_I_disabled</destroyedDef>
+						</ThingDef>
+						<ThingDef ParentName="RPP_Bot_II" Class="AIRobot.X2_ThingDef_AIRobot">
+							<defName>RPP_Bot_Atom_II</defName>
+							<label>Atom Bot</label>
+							<description>A Tier 2 professional-class unit capable of handling nuclear reactor fuel.</description>
+							<robotWorkTypes>
+								<li>
+									<workTypeDef>RB_BeekeepingWork</workTypeDef>
+									<priority>3</priority>
+								</li>
+							</robotWorkTypes>
+							<destroyedDef>RPP_Bot_Atom_II_disabled</destroyedDef>
+						</ThingDef>
+						<ThingDef ParentName="RPP_Bot_III" Class="AIRobot.X2_ThingDef_AIRobot">
+							<defName>RPP_Bot_Atom_III</defName>
+							<label>Atom Bot</label>
+							<description>A Tier 3 Master-class unit capable of handling nuclear reactor fuel.</description>
+							<robotWorkTypes>
+								<li>
+									<workTypeDef>RB_BeekeepingWork</workTypeDef>
+									<priority>2</priority>
+								</li>
+							</robotWorkTypes>
+							<destroyedDef>RPP_Bot_Atom_III_disabled</destroyedDef>
+						</ThingDef>
+						<ThingDef ParentName="RPP_Bot_IV" Class="AIRobot.X2_ThingDef_AIRobot">
+							<defName>RPP_Bot_Atom_IV</defName>
+							<label>Atom Bot</label>
+							<description>A Tier 4 System-Master-class unit capable of handling nuclear reactor fuel.</description>
+							<robotWorkTypes>
+								<li>
+									<workTypeDef>RB_BeekeepingWork</workTypeDef>
+									<priority>3</priority>
+								</li>
+							</robotWorkTypes>
+							<destroyedDef>RPP_Bot_Atom_IV_disabled</destroyedDef>
+						</ThingDef>
+						<ThingDef ParentName="RPP_Bot_V" Class="AIRobot.X2_ThingDef_AIRobot">
+							<defName>RPP_Bot_Atom_V</defName>
+							<label>Atom Bot</label>
+							<description>A Tier 5 Godlike-class unit capable of handling nuclear reactor fuel.</description>
+							<robotWorkTypes>
+								<li>
+									<workTypeDef>RB_BeekeepingWork</workTypeDef>
+									<priority>3</priority>
+								</li>
+							</robotWorkTypes>
+							<destroyedDef>RPP_Bot_Atom_V_disabled</destroyedDef>
+						</ThingDef>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>

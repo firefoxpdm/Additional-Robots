@@ -25,6 +25,17 @@
 	<RPP_Bot_Beekeeper_V.label>Beekeeper Bot</RPP_Bot_Beekeeper_V.label>
 	<RPP_Bot_Beekeeper_V.description>A Tier 5 Godlike-class (20) unit capable of beekeeping.</RPP_Bot_Beekeeper_V.description>
 
+	<RPP_Bot_Atom_I.label>Atom Bot</RPP_Bot_Atom_I.label>
+	<RPP_Bot_Atom_I.description>A Tier 1 Amateur-class (4) unit capable of handling nuclear reactor fuel.</RPP_Bot_Atom_I.description>
+	<RPP_Bot_Atom_II.label>Atom Bot</RPP_Bot_Atom_II.label>
+	<RPP_Bot_Atom_II.description>A Tier 2 Professional-class (8) unit capable of handling nuclear reactor fuel.</RPP_Bot_Atom_II.description>
+	<RPP_Bot_Atom_III.label>Atom Bot</RPP_Bot_Atom_III.label>
+	<RPP_Bot_Atom_III.description>A Tier 3 Master-class (13) unit capable of handling nuclear reactor fuel.</RPP_Bot_Atom_III.description>
+	<RPP_Bot_Atom_IV.label>Atom Bot</RPP_Bot_Atom_IV.label>
+	<RPP_Bot_Atom_IV.description>A Tier 4 System-Master-class (16) unit capable of handling nuclear reactor fuel.</RPP_Bot_Atom_IV.description>
+	<RPP_Bot_Atom_V.label>Atom Bot</RPP_Bot_Atom_V.label>
+	<RPP_Bot_Atom_V.description>A Tier 5 Godlike-class (20) unit capable of handling nuclear reactor fuel.</RPP_Bot_Atom_V.description>
+
 </LanguageData>
 
 

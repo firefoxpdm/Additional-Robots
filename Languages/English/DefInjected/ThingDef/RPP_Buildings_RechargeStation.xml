@@ -24,4 +24,15 @@
 	<RPP_RechargeStation_Beekeeper_V.label>Beekeeper(V) Base Station</RPP_RechargeStation_Beekeeper_V.label>
 	<RPP_RechargeStation_Beekeeper_V.description>This station comes equipped with a specialized Anti-Logic robot.</RPP_RechargeStation_Beekeeper_V.description>
 
+	<RPP_RechargeStation_Atom_I.label>Atom(I) Base Station</RPP_RechargeStation_Atom_I.label>
+	<RPP_RechargeStation_Atom_I.description>This station comes equipped with a specialized Simple robot.</RPP_RechargeStation_Atom_I.description>
+	<RPP_RechargeStation_Atom_II.label>Atom(II) Base Station</RPP_RechargeStation_Atom_II.label>
+	<RPP_RechargeStation_Atom_II.description>This station comes equipped with a specialized Basic robot.</RPP_RechargeStation_Atom_II.description>
+	<RPP_RechargeStation_Atom_III.label>Atom(III) Base Station</RPP_RechargeStation_Atom_III.label>
+	<RPP_RechargeStation_Atom_III.description>This station comes equipped with a specialized Intermediate robot.</RPP_RechargeStation_Atom_III.description>
+	<RPP_RechargeStation_Atom_IV.label>Atom(IV) Base Station</RPP_RechargeStation_Atom_IV.label>
+	<RPP_RechargeStation_Atom_IV.description>This station comes equipped with a specialized Advanced robot.</RPP_RechargeStation_Atom_IV.description>
+	<RPP_RechargeStation_Atom_V.label>Atom(V) Base Station</RPP_RechargeStation_Atom_V.label>
+	<RPP_RechargeStation_Atom_V.description>This station comes equipped with a specialized Anti-Logic robot.</RPP_RechargeStation_Atom_V.description>
+
 </LanguageData>

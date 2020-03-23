@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Rimatomics</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs</xpath>
+					<value>
+
+						<ThingDef ParentName="RPP_Disabled_I">
+							<defName>RPP_Bot_Atom_I_disabled</defName>
+							<label>Atom Bot (disabled)</label>
+							<description>This is the sad end of a home bot. It's no longer useful and needs heavy repairs or dismantling.</description>
+							<graphicData>
+								<texPath>Things/AIRobot/RPP/Atom/I/RPP_Bot_Destroyed</texPath>
+								<graphicClass>Graphic_Single</graphicClass>
+								<drawSize>(1.7,1.7)</drawSize>
+								<onGroundRandomRotateAngle>45</onGroundRandomRotateAngle>
+							</graphicData>
+						</ThingDef>
+						<ThingDef ParentName="RPP_Disabled_II">
+							<defName>RPP_Bot_Atom_II_disabled</defName>
+							<label>Atom Bot (disabled)</label>
+							<description>This is the sad end of a home bot. It's no longer useful and needs heavy repairs or dismantling.</description>
+							<graphicData>
+								<texPath>Things/AIRobot/RPP/Atom/II/RPP_Bot_Destroyed</texPath>
+								<graphicClass>Graphic_Single</graphicClass>
+								<drawSize>(1.7,1.7)</drawSize>
+								<onGroundRandomRotateAngle>45</onGroundRandomRotateAngle>
+							</graphicData>
+						</ThingDef>
+						<ThingDef ParentName="RPP_Disabled_III">
+							<defName>RPP_Bot_Atom_III_disabled</defName>
+							<label>Atom Bot (disabled)</label>
+							<description>This is the sad end of a home bot. It's no longer useful and needs heavy repairs or dismantling.</description>
+							<graphicData>
+								<texPath>Things/AIRobot/RPP/Atom/III/RPP_Bot_Destroyed</texPath>
+								<graphicClass>Graphic_Single</graphicClass>
+								<drawSize>(1.7,1.7)</drawSize>
+								<onGroundRandomRotateAngle>45</onGroundRandomRotateAngle>
+							</graphicData>
+						</ThingDef>
+						<ThingDef ParentName="RPP_Disabled_IV">
+							<defName>RPP_Bot_Atom_IV_disabled</defName>
+							<label>Atom Bot (disabled)</label>
+							<description>This is the sad end of a home bot. It's no longer useful and needs heavy repairs or dismantling.</description>
+							<graphicData>
+								<texPath>Things/AIRobot/RPP/Atom/III/RPP_Bot_Destroyed</texPath>
+								<graphicClass>Graphic_Single</graphicClass>
+								<drawSize>(1.7,1.7)</drawSize>
+								<onGroundRandomRotateAngle>45</onGroundRandomRotateAngle>
+							</graphicData>
+						</ThingDef>
+						<ThingDef ParentName="RPP_Disabled_V">
+							<defName>RPP_Bot_Atom_V_disabled</defName>
+							<label>Atom Bot (disabled)</label>
+							<description>This is the sad end of a home bot. It's no longer useful and needs heavy repairs or dismantling.</description>
+							<graphicData>
+								<texPath>Things/AIRobot/RPP/Atom/V/RPP_Bot_Destroyed</texPath>
+								<graphicClass>Graphic_Single</graphicClass>
+								<drawSize>(1.7,1.7)</drawSize>
+								<onGroundRandomRotateAngle>45</onGroundRandomRotateAngle>
+							</graphicData>
+						</ThingDef>
+
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>
